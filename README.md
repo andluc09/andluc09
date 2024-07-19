@@ -15,7 +15,7 @@
 ## 🏆 Troféus GitHub
 ![](https://github-profile-trophy.vercel.app/?username=andluc09&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Citações de Desenvolvedor
+### ✍🏻 Citações de Desenvolvedor
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ### 🔝 Repositório mais contribuído

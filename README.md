@@ -1,4 +1,9 @@
 ---
+<div align="center">
+0ㅤㅤㅤㅤㅤㅤ0ㅤㅤㅤㅤㅤㅤ0ㅤㅤㅤㅤㅤㅤ1ㅤㅤㅤㅤㅤㅤ1ㅤㅤㅤㅤㅤㅤ1ㅤㅤㅤㅤㅤㅤ1ㅤㅤㅤㅤㅤㅤ0ㅤㅤㅤㅤㅤㅤ0ㅤㅤㅤㅤㅤㅤ1ㅤㅤㅤ
+  ㅤㅤㅤ0ㅤㅤㅤㅤㅤㅤ1ㅤㅤㅤㅤㅤㅤ1ㅤㅤㅤㅤㅤㅤ0ㅤㅤㅤㅤㅤㅤ0ㅤㅤㅤㅤㅤㅤ1ㅤㅤㅤㅤㅤㅤ1ㅤㅤㅤㅤㅤㅤ0ㅤㅤㅤㅤㅤㅤ0ㅤㅤㅤㅤㅤㅤ0ㅤㅤㅤ
+  ㅤㅤㅤ 1ㅤㅤㅤㅤㅤㅤ0ㅤㅤㅤㅤㅤㅤ1ㅤㅤㅤㅤㅤㅤ0ㅤㅤㅤㅤㅤㅤ1ㅤㅤㅤㅤㅤㅤ0ㅤㅤㅤㅤㅤㅤ1ㅤㅤㅤㅤㅤㅤ0ㅤㅤㅤㅤㅤㅤ1ㅤㅤㅤㅤㅤㅤㅤㅤ
+</div>
 
 <div align="center">
 <img src="https://github.com/andluc09/andluc09/blob/main/Escudo%20AL%20-%20Transparente.png" class=Brasao_AL title="Logo - Escudo André Lucas" alt="Logo - Escudo André Lucas" align=middle width="275">

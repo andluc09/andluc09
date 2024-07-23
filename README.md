@@ -1,7 +1,7 @@
 ---
 
 <div align="center">
-<img src="https://github.com/andluc09/andluc09/blob/main/Escudo%20AL%20-%20Transparente.png" class=Brasao_AL title="Logo - Escudo André Lucas" alt="Logo - Escudo André Lucas" align=middle width="325">
+<img src="https://github.com/andluc09/andluc09/blob/main/Escudo%20AL%20-%20Transparente.png" class=Brasao_AL title="Logo - Escudo André Lucas" alt="Logo - Escudo André Lucas" align=middle width="275">
 </div>
 
 

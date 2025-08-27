@@ -11,7 +11,7 @@
 
 
 # 🧑🏻‍💻 Sobre mim:
-🔭 Eu trabalho com desenvolvimento na TOTVS<br>🎓 Formado em Engenharia de Computação como bolsista ProUni pela UNISO (Universidade de Sorocaba) <br>🔎 Estou sempre em busca de aprender coisas novas! Fascinado por Tecnologia!!<br>🌱 Atualmente estou aprendendo/aprofundando: Java, Spring e demais tecnologias voltadas a atuação como Desenvolvedor Java ☕<br>💬 Tenho 28 anos, casado, tenho formação técnica em Eletroeletrônica e já toquei violino no passado!<br>⚡ Sou fã de cultura Geek, sou apaixonado por séries, filmes de ficção científica, RPG, MTG e livros de fantasia. Adoro passar tempo ouvindo músicas ao caminhar, viajar para destinos incomuns, conhecer parques naturais e estou sempre em busca de novas aventuras.
+🔭 Eu trabalhei com desenvolvimento na TOTVS<br>🎓 Formado em Engenharia de Computação como bolsista ProUni pela UNISO (Universidade de Sorocaba) <br>🔎 Estou sempre em busca de aprender coisas novas! Fascinado por Tecnologia!!<br>🌱 Atualmente estou aprendendo/aprofundando: Java, Spring e demais tecnologias voltadas a atuação como Desenvolvedor Java ☕<br>💬 Nasci em 1996, casado desde 2023, tenho formação técnica em Eletroeletrônica e já toquei violino no passado!<br>⚡ Sou fã de cultura Geek, sou apaixonado por séries, filmes de ficção científica, RPG, MTG e livros de fantasia. Adoro passar tempo ouvindo músicas ao caminhar, viajar para destinos incomuns, conhecer parques naturais e estou sempre em busca de novas aventuras.
 
 
 ## 🌐 Redes Sociais:
